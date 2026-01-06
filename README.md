@@ -19,8 +19,8 @@ Bu eğitimin amacı, katılımcıların MATLAB programlama diline hâkimiyet kaz
 - IEEE--> C. Yasar, "Temelden_Uygulamaya_Matlab_Egitimi." GitHub, [Online]. Erişim Linki: https://github.com/cyasar34/Temelden_Uygulamaya_Matlab_Egitimi Son Erişim Tarihi: Gün Ay Yıl.
 - APA--> Yasar, C. (2024). Temelden_Uygulamaya_Matlab_Egitimi. GitHub. Erişim Linki: https://github.com/cyasar34/Temelden_Uygulamaya_Matlab_Egitimi Son Erişim Tarihi: Gün Ay Yıl.
   
-> **Proje Durumu:** İlgili dokümanların paylaşımı ders kapsamında gerçekleştirilmiştir. GitHub bölümünden beğeni bildirimi olarak bir yıldız vererek çalışmalarımı destekleyebilirsiniz. 
-> **Katkıda Bulunma:** Dokümanlarınızda kullanılacaksanız ilgili atıf yöntemlerini kullanmanız ve haber vermeniz çok önemlidir. 
+> **Proje Durumu:** İlgili dokümanların paylaşımı ders kapsamında gerçekleştirilmiştir. GitHub bölümünden beğeni bildirimi olarak bir yıldız vererek çalışmalarımı destekleyebilirsiniz. <br>
+> **Katkıda Bulunma:** Dokümanlarınızda kullanılacaksanız ilgili atıf yöntemlerini kullanmanız ve haber vermeniz çok önemlidir. <br>
 > **Lisans:** MIT Lisansı altında yayımlandı
 
 
